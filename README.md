@@ -1,4 +1,4 @@
- [![MasterHead](https://d3srxiunz7lgh6.cloudfront.net/nhrdh8t9d2rox4ezsizzhyvm1y5l)
+![MasterHead](https://tycoonsuccess.com/wp-content/uploads/2022/03/Data-science-AI-machine-learning.jpg)
 <h1 align="center">Hi 👋, I'm Emrah yilmaz</h1>
 <h3 align="center">Veri bilimi</h3>
 
